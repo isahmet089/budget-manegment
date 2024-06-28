@@ -1,0 +1,31 @@
+.main-content {
+    margin-left: 250px;
+    padding: 20px;  
+    flex-grow: 1;
+  }
+  .main-navbar{
+    margin-left: 250px;
+    padding: 10px;
+    box-shadow: 0 .125rem .625rem rgba(90, 97, 105, .12);
+  }
+  
+  
+  .navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #001529;
+   
+  }
+  
+  .navbar .profile {  
+    display: flex;
+    align-items: center;
+   
+  }
+  
+  
+  
+
+  
+  

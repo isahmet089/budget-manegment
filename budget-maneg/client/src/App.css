@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body {
+ 
+  margin: 0;
+  padding: 0;
+  background-color: #f0f2f5;
+  
+}
+.ant-card {
+  border-radius: 8px;
+}
+
+.ant-card .ant-card-body {
+  padding: 24px;
+}
+
+.ant-card-title {
+  font-size: 16px;
+  color: #000;
+}
+.ant-btn-primary {
+  background-color:#001529;
+}
+.ant-btn-primary:hover {
+  background-color:#001529;
+}
+.main-content{
+  margin-top: 50px;
+}
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+

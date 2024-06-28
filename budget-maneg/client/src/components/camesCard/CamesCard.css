@@ -1,0 +1,35 @@
+/* Stil dosyası */
+.totals-container {
+    padding: 20px;
+  }
+  
+  .income-card, .expense-card, .net-total-card, .evaluation-card {
+    text-align: center;
+    padding: 16px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s;
+  }
+  
+  .income-card {
+    background-color: #e8f5e9; /* Yeşil arka plan */
+  }
+  
+  .expense-card {
+    background-color: #ffebee; /* Kırmızı arka plan */
+  }
+  
+  .net-total-card {
+    background-color: #e3f2fd; /* Mavi arka plan */
+  }
+  
+  .evaluation-card {
+    background-color: #f3e5f5; /* Mor arka plan */
+  }
+  
+  .evaluation-text {
+    font-size: 24px;
+    font-weight: bold;
+    color: #673ab7; /* Mor renk */
+  }
+  
